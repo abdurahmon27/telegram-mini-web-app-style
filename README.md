@@ -1,4 +1,4 @@
-`
+```css
 * telegram style vars */
 
 :root {
@@ -111,4 +111,4 @@
 }
 
 /* telegram style vars end */
-`
+```
